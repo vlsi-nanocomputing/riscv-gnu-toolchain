@@ -15,7 +15,7 @@
 	branch = riscv-dejagnu-1.6
 [submodule "riscv-newlib"]
 	path = riscv-newlib
-	url = git://sourceware.org/git/newlib-cygwin.git
+	url = https://sourceware.org/git/newlib-cygwin.git
 	branch = master
 [submodule "riscv-gdb"]
 	path = riscv-gdb
