@@ -1,7 +1,7 @@
 [submodule "riscv-binutils"]
 	path = riscv-binutils
 	url = https://github.com/vlsi-nanocomputing/riscv-binutils-gdb.git
-	branch = riscv-binutils-2.38-lim
+	branch = riscv-binutils-2.36.1-lim
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = https://github.com/riscv-collab/riscv-gcc.git
